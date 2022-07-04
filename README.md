@@ -23,12 +23,12 @@ Acorn 아카데미 5 팀 프로젝트
  ┃ ┗ 📜conditionSearch.jsp
  ┣ 📂detail
  ┃ ┣ 📜bookDetail.jsp
- ┃ ┗ 📜detailAjax.jsp
+ ┃ ┣ 📜detailAjax.jsp
+ ┃ ┗ 📜review_directInsertform.jsp
  ┣ 📂error
  ┃ ┣ 📜db_fail.jsp
  ┃ ┗ 📜not_allow.jsp
  ┣ 📂include
- ┃ ┣ 📜footer.jsp
  ┃ ┣ 📜navbar.jsp
  ┃ ┣ 📜resource.jsp
  ┃ ┣ 📜sideindex.jsp
@@ -36,24 +36,24 @@ Acorn 아카데미 5 팀 프로젝트
  ┣ 📂map
  ┃ ┗ 📜mapsearch.jsp
  ┣ 📂pay
+ ┃ ┣ 📜bootstrap.min.css.map
  ┃ ┣ 📜cart.jsp
  ┃ ┣ 📜delete.jsp
  ┃ ┣ 📜deleteCart.jsp
  ┃ ┣ 📜insert.jsp
  ┃ ┣ 📜order_insert.jsp
- ┃ ┣ 📜order_insertform.jsp
  ┃ ┣ 📜paid.jsp
  ┃ ┣ 📜pay.jsp
  ┃ ┗ 📜update.jsp
  ┣ 📂review
  ┃ ┣ 📂private
+ ┃ ┃ ┣ 📜delete.jsp
  ┃ ┃ ┣ 📜reviewDelete.jsp
  ┃ ┃ ┣ 📜reviewInsert.jsp
  ┃ ┃ ┣ 📜reviewInsertform.jsp
  ┃ ┃ ┣ 📜reviewUpdate.jsp
  ┃ ┃ ┗ 📜reviewUpdateform.jsp
  ┃ ┣ 📜reviewBookList.jsp
- ┃ ┣ 📜reviewCommentList.jsp
  ┃ ┣ 📜reviewDetail.jsp
  ┃ ┗ 📜reviewList.jsp
  ┣ 📂users
@@ -61,11 +61,13 @@ Acorn 아카데미 5 팀 프로젝트
  ┃ ┃ ┣ 📜delete.jsp
  ┃ ┃ ┣ 📜info.jsp
  ┃ ┃ ┣ 📜my_order.jsp
+ ┃ ┃ ┣ 📜my_reply.jsp
  ┃ ┃ ┣ 📜my_review.jsp
  ┃ ┃ ┣ 📜order_detail.jsp
  ┃ ┃ ┣ 📜profile_upload.jsp
  ┃ ┃ ┣ 📜pwd_update.jsp
  ┃ ┃ ┣ 📜pwd_updateform.jsp
+ ┃ ┃ ┣ 📜recentSearch.jsp
  ┃ ┃ ┣ 📜update.jsp
  ┃ ┃ ┗ 📜updateform.jsp
  ┃ ┣ 📜login.jsp
@@ -73,7 +75,7 @@ Acorn 아카데미 5 팀 프로젝트
  ┃ ┣ 📜logout.jsp
  ┃ ┣ 📜signup.jsp
  ┃ ┗ 📜signup_form.jsp
- ┗ 📜home.jsp
+ ┗📜home.jsp
 ```
 ## 구현 기능
 | Home | 전체도서 | 리뷰 | 지도 | 마이페이지 | 결제 |
@@ -84,68 +86,24 @@ Acorn 아카데미 5 팀 프로젝트
 | 책 추천 캐러셀 | 추천 도서 | 스포일러 체크 | | 회원 탈퇴 | 바로 결제 |
 | Api 페이징 | | 댓글 | 
 | 상세 정보 | | 조회수 | 
+
+-------------------------
+
+## Home
 <table>
     <tr>
         <td align="center" width="400px">
             <a href="">🔗 메인 페이지</a>
         </td>
-        <td align="center" width="400px">
-            <a href="">🔗 로그인</a>
-        </td>
-        <td align="center" width="400px">
-            <a href="">🔗 회원가입</a>
-        </td>
-        <td align="center" width="400px">
-            <a href="">🔗 로그인 페이지</a>
-        </td>
     </tr>
     <tr>
         <td align="center" width="150px" >
-            <img src="https://user-images.githubusercontent.com/93498523/168758472-13a08e0d-62a9-4925-ac78-5a9d668ae42c.png" height="300px" width="400px"/>
-        </td>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168758062-86882746-e624-40ff-aad8-538f9d681dfd.png" height="100px" width="150px"/>
-        </td>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168759620-6994602d-e011-41cf-ae25-1c662af9ab42.png" height="100px" width="150px"/>
-        </td>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168769562-93df1577-edf5-4bbe-af62-541b304ee652.png" height="100px" width="150px"/>
-        </td>
-    </tr>
-        <tr>
-        <td align="center" width="150px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 마이 페이지</a>
-        </td>
-        <td align="center" width="150px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 공지사항</a>
-        </td>
-        <td align="center" width="150px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 투두리스트</a>
-        </td>
-        <td align="center" width="150px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 일정관리</a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168770352-eb6f2934-93ec-4b7a-b353-ab2b3bf97a7d.png" height="100px" width="150px"/>
-        </td>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168762326-f37dcfbb-8ddd-491f-843e-a7e768a93421.png" height="100px" width="150px"/>
-        </td>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168761745-990ccc0c-2b2e-4905-8219-61adc0e527b1.png" height="100px" width="150px"/>
-        </td>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168765189-164c6ace-b058-4001-aef7-e7bbdbaa957b.png" height="100px" width="150px"/>
-        </td>
+            <img src="https://user-images.githubusercontent.com/72749783/177099847-48ea1e4a-523e-413f-b8b4-10aace6bca3c.PNG"  width="450" height="370">
+       </td>
     </tr>
 </table>
 
 
-## Home
-<img src="https://user-images.githubusercontent.com/72749783/117821251-5a0c4180-b2a6-11eb-9357-b406deeef8a2.PNG"  width="450" height="370">
 
 ## 베스트셀러 
 <img src="https://user-images.githubusercontent.com/72749783/117823790-d142d500-b2a8-11eb-9cee-25bdee9e1cfd.PNG"  width="450" height="370">

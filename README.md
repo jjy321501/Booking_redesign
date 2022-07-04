@@ -5,9 +5,9 @@
 
 ## 개발 환경 
 - Front-End 
-   - Html / CSS Javascript / jQuery / Ajax / BootStrap
+   - Html / CSS / Javascript 
 -  Back-End
-   - Java / Spring / MyBatis / Oracle DB / Apache Tomcat
+   - Java 
 - __API__  
    - Naver 도서 Api
    - Kakao Map Api

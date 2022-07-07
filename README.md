@@ -1,7 +1,7 @@
 # :book:  BOOKING 
-도서 추천 웹 서비스 <br>
-2022.01 ~ 2022.03 <br>
-<a href="https://github.com/jjy321501/Booking">[ Booking ]</a> 재설계 및 배포 <a href="http://www.acornbook.me">http://www.acornbook.me/</a>
+- 도서 추천 웹 서비스 <br>
+- 2022.01 ~ 2022.03 <br>
+- <a href="https://github.com/jjy321501/Booking">[ Booking ]</a> 재설계 및 배포 <a href="http://www.acornbook.me">http://www.acornbook.me/</a>
 
 ## :green_book: 개발 환경 
 - Front-End 

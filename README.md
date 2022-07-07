@@ -3,7 +3,7 @@
 2022.01 ~ 2022.03 <br>
 <a href="https://github.com/jjy321501/Booking">[ Booking ]</a> 재설계 및 배포 <a href="http://www.acornbook.me">http://www.acornbook.me/</a>
 
-## 개발 환경 
+## :green_book: 개발 환경 
 - Front-End 
    - Html / CSS / Javascript 
 -  Back-End
@@ -14,7 +14,7 @@
    - KG 이니시스 결제 Api
    - Daum 도로명 Api 
  
-## 디렉토리 구조
+## :orange_book: 디렉토리 구조
 ```bash
 📦views
  ┣ 📂bookList
@@ -77,7 +77,7 @@
  ┃ ┗ 📜signup_form.jsp
  ┗📜home.jsp
 ```
-## 구현 기능
+## :blue_book: 구현 기능
 | 홈 | 전체도서 | 리뷰 | 결제 | 마이페이지 | 지도 |
 |:------:|:----------:|:----------:|:------:|:----------:|:-----:|
 | 도서 검색 | 장르별 도서 | 리뷰 목록 | 북카트 | 개인정보 수정 | 서점 검색 |
@@ -89,7 +89,7 @@
 
 
 -------------------------
-## 주요 페이지
+## :closed_book: 주요 페이지
 
 <table>
     <tr>
@@ -164,7 +164,7 @@
 </table>
 
 --------------------
-## 디자인 변경점
+## :notebook: 주요 디자인 변경사항
 
 <table>
     <tr>

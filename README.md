@@ -105,13 +105,13 @@
     </tr>
     <tr>
         <td align="center" width="150px" >
-            <img src="https://user-images.githubusercontent.com/93498523/168758472-13a08e0d-62a9-4925-ac78-5a9d668ae42c.png" height="300px" width="400px"/>
+            <img src="https://user-images.githubusercontent.com/72749783/177783390-b3a50c5a-9b07-4ecc-ba3c-edc7b23025e4.gif" height="300px" width="400px"/>
         </td>
         <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168758062-86882746-e624-40ff-aad8-538f9d681dfd.png" height="100px" width="150px"/>
+            <img src="https://user-images.githubusercontent.com/72749783/177783985-6b2f78a6-855e-4bfd-807e-689db944f154.gif" height="300px" width="400px"/>
         </td>
         <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168759620-6994602d-e011-41cf-ae25-1c662af9ab42.png" height="100px" width="150px"/>
+            <img src="https://user-images.githubusercontent.com/72749783/177783724-1708b896-9457-4c98-a36a-b8370521b68a.gif" height="300px" width="400px"/>
        </td>
     </tr>
     <tr>
@@ -127,13 +127,14 @@
     </tr>
     <tr>
         <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168769562-93df1577-edf5-4bbe-af62-541b304ee652.png" height="100px" width="150px"/>
+            <img src="https://user-images.githubusercontent.com/72749783/177784354-8778d35f-235d-4a30-8dfa-c719384049c9.gif" height="300px" width="400px"/>
         </td>
         <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168770352-eb6f2934-93ec-4b7a-b353-ab2b3bf97a7d.png" height="100px" width="150px"/>
+            <img src="https://user-images.githubusercontent.com/72749783/177784664-71a58035-8ed3-48d0-8887-d70c5cd51c6e.gif"
+ height="300px" width="400px"/>
         </td>
         <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168762326-f37dcfbb-8ddd-491f-843e-a7e768a93421.png" height="100px" width="150px"/>
+            <img src="https://user-images.githubusercontent.com/72749783/177784861-77fb09ba-a7d2-4fd6-a7f1-e75fea42dca1.gif" height="300px" width="400px"/>
        </td>
     </tr>
     <tr>
@@ -144,16 +145,20 @@
             <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 북 카트 </a>
         </td>
         <td>
+           <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 서점 찾기 </a>
         </td>
     </tr>
     <tr>
        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168761745-990ccc0c-2b2e-4905-8219-61adc0e527b1.png" height="100px" width="150px"/>
+            <img src="https://user-images.githubusercontent.com/72749783/177785817-f1c52032-89a2-46ee-bef9-0a347f8ed320.gif"
+ height="300px" width="400px"/>
         </td>
         <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168765189-164c6ace-b058-4001-aef7-e7bbdbaa957b.png" height="100px" width="150px"/>
+            <img src="https://user-images.githubusercontent.com/72749783/177785182-a7753f04-bd47-475f-992b-28aab3ca01f6.gif"
+ height="300px" width="400px"/>
         </td>
         <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177785527-6e65b7fc-7868-4fa8-b5f4-fd43bfae975d.gif" height="300px" width="400px"/>
        </td>
    </tr>
 </table>

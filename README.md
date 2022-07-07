@@ -93,72 +93,72 @@
 
 <table>
     <tr>
-        <td align="center" width="400px">
+        <td align="center" width="300px">
             <a href="">🔗 홈</a>
         </td>
-        <td align="center" width="400px">
+        <td align="center" width="300px">
             <a href="">🔗 로그인</a>
         </td>
-        <td align="center" width="400px">
+        <td align="center" width="300px">
             <a href="">🔗 회원가입</a>
         </td>
     </tr>
     <tr>
-        <td align="center" width="150px" >
-            <img src="https://user-images.githubusercontent.com/72749783/177783390-b3a50c5a-9b07-4ecc-ba3c-edc7b23025e4.gif" height="300px" width="400px"/>
+        <td align="center">
+            <img src="https://user-images.githubusercontent.com/72749783/177783390-b3a50c5a-9b07-4ecc-ba3c-edc7b23025e4.gif" height="300px" />
         </td>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/72749783/177783985-6b2f78a6-855e-4bfd-807e-689db944f154.gif" height="300px" width="400px"/>
+        <td align="center">
+            <img src="https://user-images.githubusercontent.com/72749783/177783985-6b2f78a6-855e-4bfd-807e-689db944f154.gif" height="300px" />
         </td>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/72749783/177783724-1708b896-9457-4c98-a36a-b8370521b68a.gif" height="300px" width="400px"/>
+        <td align="center">
+            <img src="https://user-images.githubusercontent.com/72749783/177783724-1708b896-9457-4c98-a36a-b8370521b68a.gif" height="300px"/>
        </td>
     </tr>
     <tr>
-        <td align="center" width="400px">
+        <td align="center" width="300px">
             <a href="">🔗 전체 도서</a>
         </td>
-        <td align="center" width="150px">
+        <td align="center" width="300px">
             <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 베스트 셀러 </a>
         </td>
-        <td align="center" width="150px">
+        <td align="center" width="300px">
             <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 리뷰</a>
         </td>
     </tr>
     <tr>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/72749783/177784354-8778d35f-235d-4a30-8dfa-c719384049c9.gif" height="300px" width="400px"/>
+        <td align="center" width="300px">
+            <img src="https://user-images.githubusercontent.com/72749783/177784354-8778d35f-235d-4a30-8dfa-c719384049c9.gif" height="300px"/>
         </td>
-        <td align="center" width="150px">
+        <td align="center" width="300px">
             <img src="https://user-images.githubusercontent.com/72749783/177784664-71a58035-8ed3-48d0-8887-d70c5cd51c6e.gif"
- height="300px" width="400px"/>
+ height="300px" />
         </td>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/72749783/177784861-77fb09ba-a7d2-4fd6-a7f1-e75fea42dca1.gif" height="300px" width="400px"/>
+        <td align="center" width="300px">
+            <img src="https://user-images.githubusercontent.com/72749783/177784861-77fb09ba-a7d2-4fd6-a7f1-e75fea42dca1.gif" height="300px"/>
        </td>
     </tr>
     <tr>
-        <td align="center" width="150px">
+        <td align="center" width="300px">
             <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 마이페이지 </a>
         </td>
-        <td align="center" width="150px">
+        <td align="center" width="300px">
             <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 북 카트 </a>
         </td>
-        <td>
+        <td align="center" width="300px">
            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 서점 찾기 </a>
         </td>
     </tr>
     <tr>
-       <td align="center" width="150px">
+       <td align="center" width="300px">
             <img src="https://user-images.githubusercontent.com/72749783/177785817-f1c52032-89a2-46ee-bef9-0a347f8ed320.gif"
- height="300px" width="400px"/>
+ height="300px" />
         </td>
-        <td align="center" width="150px">
+        <td align="center" width="300px">
             <img src="https://user-images.githubusercontent.com/72749783/177785182-a7753f04-bd47-475f-992b-28aab3ca01f6.gif"
- height="300px" width="400px"/>
+ height="300px"/>
         </td>
-        <td>
-           <img src="https://user-images.githubusercontent.com/72749783/177785527-6e65b7fc-7868-4fa8-b5f4-fd43bfae975d.gif" height="300px" width="400px"/>
+        <td align="center" width="300px">
+           <img src="https://user-images.githubusercontent.com/72749783/177785527-6e65b7fc-7868-4fa8-b5f4-fd43bfae975d.gif" height="300px"/>
        </td>
    </tr>
 </table>
@@ -168,15 +168,15 @@
 
 <table>
     <tr>
-        <td colspan="2" align="center" width="800px">
+        <td colspan="2" align="center" width="400px">
         메인 페이지
         </td>
     </tr>
     <tr>
-        <td align="center" >
-           <img src="https://user-images.githubusercontent.com/72749783/177791536-ecf87e91-d1b0-42f4-a9c5-5e9436e018fb.PNG"  height="370">
+        <td align="center" width="50%">
+           <img src="https://user-images.githubusercontent.com/72749783/177791536-ecf87e91-d1b0-42f4-a9c5-5e9436e018fb.PNG"   height="370">
        </td>
-       <td>
+       <td align="center" width="50%">
            <img src="https://user-images.githubusercontent.com/72749783/177099847-48ea1e4a-523e-413f-b8b4-10aace6bca3c.PNG"  height="370">
        </td>
     </tr>
@@ -189,10 +189,10 @@
         </td>
     </tr>
     <tr>
-        <td align="center" >
+        <td align="center" width="50%">
            <img src="https://user-images.githubusercontent.com/72749783/177792164-09e6586e-01b6-4504-853f-d0addec13c33.PNG"  height="370">
        </td>
-       <td>
+       <td align="center" width="50%">
            <img src="https://user-images.githubusercontent.com/72749783/177792292-1239045a-2a46-437d-91f6-594b63b4e6a3.PNG"  height="370">
        </td>
     </tr>

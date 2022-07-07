@@ -1,9 +1,27 @@
 # :book:  BOOKING 
+-------------------------
+## 목차
+
+1. [개요](#section1)
+2. [개발 환경](#section2)
+3. [프로젝트 구조](#section3)
+4. [구현 기능](#section4)
+5. [주요 UI](#section5)
+6. [주요 디자인 변경사항](#section6)
+
+<br>
+<br>
+
+## :books: 개요 <a id="section1"></a>
 - 도서 추천 웹 서비스 <br>
 - 2022.01 ~ 2022.03 <br>
-- <a href="https://github.com/jjy321501/Booking">[ Booking ]</a> 재설계 및 배포 <a href="http://www.acornbook.me">http://www.acornbook.me/</a>
+- <a href="https://github.com/jjy321501/Booking">[ Booking ]</a> 재설계 
+- [ 배포 URL ] <a href="http://www.acornbook.me">http://www.acornbook.me/</a>
 
-## :green_book: 개발 환경 
+<br>
+<br>
+
+## :green_book: 개발 환경 <a id="section2"></a>
 - Front-End 
    - Html / CSS / Javascript 
 -  Back-End
@@ -13,8 +31,11 @@
    - Kakao Map Api
    - KG 이니시스 결제 Api
    - Daum 도로명 Api 
- 
-## :orange_book: 디렉토리 구조
+
+<br>
+<br>
+
+## :orange_book: 프로젝트 구조 <a id="section3"></a>
 ```bash
 📦views
  ┣ 📂bookList
@@ -77,7 +98,11 @@
  ┃ ┗ 📜signup_form.jsp
  ┗📜home.jsp
 ```
-## :blue_book: 구현 기능
+
+<br>
+<br>
+
+## :blue_book: 구현 기능 <a id="section4"></a>
 | 홈 | 전체도서 | 리뷰 | 결제 | 마이페이지 | 지도 |
 |:------:|:----------:|:----------:|:------:|:----------:|:-----:|
 | 도서 검색 | 장르별 도서 | 리뷰 목록 | 북카트 | 개인정보 수정 | 서점 검색 |
@@ -86,11 +111,11 @@
 | | 추천 도서 | 스포일러 | 즉시결제 | 주문 내역 | |
 | | 상세 페이지 | 댓글 | |  | |
 | | | 조회수 | | | |
+<br>
+<br>
 
-
--------------------------
-## :closed_book: 주요 페이지
-
+## :closed_book: 주요 페이지 <a id="section5"></a>
+ --------------------
 <table>
     <tr>
         <td align="center" width="300px">
@@ -163,8 +188,11 @@
    </tr>
 </table>
 
+<br>
+<br>
+
+## :notebook: 주요 디자인 변경사항 <a id="section6"></a>
 --------------------
-## :notebook: 주요 디자인 변경사항
 
 <table>
     <tr>

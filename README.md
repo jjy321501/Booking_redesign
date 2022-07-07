@@ -163,44 +163,168 @@
    </tr>
 </table>
 
+--------------------
+## 디자인 변경점
 
-### 메인 페이지 ( Home )
 <table>
     <tr>
-        <td align="center" width="400px">
-            <a href="">🔗 메인 페이지</a>
+        <td colspan="2" align="center" width="800px">
+        메인 페이지
         </td>
     </tr>
     <tr>
-        <td align="center" width="150px" >
-            <img src="https://user-images.githubusercontent.com/72749783/177099847-48ea1e4a-523e-413f-b8b4-10aace6bca3c.PNG"  width="450" height="370">
+        <td align="center" >
+           <img src="https://user-images.githubusercontent.com/72749783/177791536-ecf87e91-d1b0-42f4-a9c5-5e9436e018fb.PNG"  height="370">
+       </td>
+       <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177099847-48ea1e4a-523e-413f-b8b4-10aace6bca3c.PNG"  height="370">
        </td>
     </tr>
 </table>
 
-### 전체도서 
-#### *( 카테고리 )* 
-<img src="https://user-images.githubusercontent.com/72749783/117824808-c0469380-b2a9-11eb-9c1a-94f2ef8ba6a2.PNG"  width="450" height="370">
+<table>
+    <tr>
+        <td colspan="2" align="center" width="800px">
+        전체도서
+        </td>
+    </tr>
+    <tr>
+        <td align="center" >
+           <img src="https://user-images.githubusercontent.com/72749783/177792164-09e6586e-01b6-4504-853f-d0addec13c33.PNG"  height="370">
+       </td>
+       <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177792292-1239045a-2a46-437d-91f6-594b63b4e6a3.PNG"  height="370">
+       </td>
+    </tr>
+</table>
 
-### 리뷰 
-#### *( 목록 / 리뷰쓰기 / 책 검색 / 댓글 )*
-<img src="https://user-images.githubusercontent.com/72749783/117825504-57abe680-b2aa-11eb-878e-41ee15d9c47b.PNG"  width="450" height="370">
-<img src="https://user-images.githubusercontent.com/72749783/117825519-5a0e4080-b2aa-11eb-9dbb-04bb449afa17.PNG"  width="450" height="370">
-<img src="https://user-images.githubusercontent.com/72749783/117825528-5b3f6d80-b2aa-11eb-82a2-7a19e173f5fb.PNG"  width="450" height="370">
-<img src="https://user-images.githubusercontent.com/72749783/117825534-5c709a80-b2aa-11eb-89db-90ef238f62b9.PNG"  width="450" height="370">
+<table>
+    <tr>
+        <td colspan="2" align="center" width="800px">
+        리뷰 게시판
+        </td>
+    </tr>
+    <tr>
+        <td align="center" >
+           <img src="https://user-images.githubusercontent.com/72749783/117825504-57abe680-b2aa-11eb-878e-41ee15d9c47b.PNG"  height="370">
+       </td>
+       <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177805092-b33c93aa-7d6b-4d82-8c56-f5f70de0ef70.PNG"  height="370">
+       </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center" width="800px">
+        리뷰 작성 폼
+        </td>
+    </tr>
+    <tr>
+        <td align="center" >
+           <img src="https://user-images.githubusercontent.com/72749783/177805204-aa3163b2-882d-4a39-8bba-f92d2219db1a.PNG"  height="370">
+       </td>
+       <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177805249-b6403657-725b-41f1-8f2e-b62db27aad24.PNG"  height="370">
+       </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center" width="800px">
+        리뷰 상세
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+           <img src="https://user-images.githubusercontent.com/72749783/177805340-ad8564bd-3225-434a-befc-b3f4d95bcdd8.PNG"  height="370">
+       </td>
+       <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177805747-4a88282a-b05a-455b-9602-89d0afbf47f7.PNG"  height="370">
+       </td>
+    </tr>
+</table>
 
-### 북카트 
-#### *(카트수량 뱃지)*
-<img src="https://user-images.githubusercontent.com/72749783/117825742-8924b200-b2aa-11eb-9913-5c31fc50247c.PNG"  width="450" height="370">
-<img src="https://user-images.githubusercontent.com/72749783/117825755-8cb83900-b2aa-11eb-91fb-ef69a01ef538.PNG"  width="450" height="370">
+<table>
+    <tr>
+        <td colspan="2" align="center" width="800px">
+        북카트
+        </td>
+    </tr>
+    <tr>
+        <td align="center" >
+           <img src="https://user-images.githubusercontent.com/72749783/177810825-ddbb279e-88fe-4ea0-8dd5-cc8e7354db02.PNG"  height="370">
+       </td>
+       <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177810935-22002b74-3dae-498e-9a9b-a8c6f5a3b937.PNG"  height="370">
+       </td>
+    </tr>
+</table>
 
-### 마이페이지 
-#### *( 활동내역 / 회원정보관리 )*
-<img src="https://user-images.githubusercontent.com/72749783/117824957-dd7b6200-b2a9-11eb-9706-b07d5092ab18.PNG"  width="450" height="370">
 
-### 지도 
-#### *( 서점검색 )*
-<img src="https://user-images.githubusercontent.com/72749783/117825693-7f02b380-b2aa-11eb-97c3-0eace5fab65f.PNG"  width="450" height="370">
+<table>
+    <tr>
+        <td colspan="2" align="center" width="800px">
+        계정 정보
+        </td>
+    </tr>
+    <tr>
+        <td align="center" >
+           <img src="https://user-images.githubusercontent.com/72749783/177814001-745ba9db-272c-4665-8eed-d987f3911597.PNG"  height="370">
+       </td>
+       <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177814180-11fdad71-f80d-4849-a35e-aba1a07e82fb.PNG"  height="370">
+       </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center" width="800px">
+        정보 수정
+        </td>
+    </tr>
+    <tr>
+        <td align="center" >
+           <img src="https://user-images.githubusercontent.com/72749783/177814246-dac5deff-2141-425c-8e42-228d33346d5c.PNG"  height="370">
+       </td>
+       <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177814331-27c5b11d-c549-426e-adba-773c6be591a1.PNG"  height="370">
+       </td>
+       <tr>
+        <td colspan="2" align="center" width="800px">
+        비밀번호 수정
+        </td>
+    </tr>
+    <tr>
+        <td align="center" >
+           <img src="https://user-images.githubusercontent.com/72749783/177814438-116e1d52-26e1-416b-a1dd-9f21dbe4c0cd.PNG"  height="370">
+       </td>
+       <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177814460-df1210c3-82ad-470e-9b30-f6245b023464.PNG"  height="370">
+       </td>
+       <tr>
+        <td colspan="2" align="center" width="800px">
+        주문 내역
+        </td>
+    </tr>
+    <tr>
+        <td align="center" >
+           <img src="https://user-images.githubusercontent.com/72749783/177814603-7311e359-7fb4-4728-9d75-b71cbf845e60.PNG"  height="370">
+       </td>
+       <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177817050-414f043e-8c6f-471c-86e1-fc8ac49ff7ad.PNG"  height="370">
+       </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td colspan="2" align="center" width="800px">
+        서점 찾기
+        </td>
+    </tr>
+    <tr>
+        <td align="center" >
+           <img src="https://user-images.githubusercontent.com/72749783/177817776-22994d4b-bd0d-4582-b339-75474c47cf5f.PNG"  height="370">
+       </td>
+       <td>
+           <img src="https://user-images.githubusercontent.com/72749783/177817802-aded2ea8-0e88-4e33-ae49-ad030d07d2e7.PNG"  height="370">
+       </td>
+    </tr>
+</table>
 
 
 

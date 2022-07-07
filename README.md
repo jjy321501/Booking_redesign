@@ -1,12 +1,12 @@
 # :book:  BOOKING 
 -------------------------
-## 목차
+## :bookmark: 목차
 
 1. [개요](#section1)
 2. [개발 환경](#section2)
 3. [프로젝트 구조](#section3)
 4. [구현 기능](#section4)
-5. [주요 UI](#section5)
+5. [주요 페이지 UI](#section5)
 6. [주요 디자인 변경사항](#section6)
 
 <br>
@@ -114,7 +114,7 @@
 <br>
 <br>
 
-## :closed_book: 주요 페이지 <a id="section5"></a>
+## :closed_book: 주요 페이지  <a id="section5"></a>
  --------------------
 <table>
     <tr>

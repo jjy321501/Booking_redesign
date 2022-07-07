@@ -97,13 +97,10 @@
             <a href="">🔗 홈</a>
         </td>
         <td align="center" width="400px">
-            <a href="">🔗 전체 도서</a>
+            <a href="">🔗 로그인</a>
         </td>
         <td align="center" width="400px">
-            <a href="">🔗 베스트셀러</a>
-        </td>
-        <td align="center" width="400px">
-            <a href="">🔗 리뷰 </a>
+            <a href="">🔗 회원가입</a>
         </td>
     </tr>
     <tr>
@@ -115,39 +112,50 @@
         </td>
         <td align="center" width="150px">
             <img src="https://user-images.githubusercontent.com/93498523/168759620-6994602d-e011-41cf-ae25-1c662af9ab42.png" height="100px" width="150px"/>
-        </td>
-        <td align="center" width="150px">
-            <img src="https://user-images.githubusercontent.com/93498523/168769562-93df1577-edf5-4bbe-af62-541b304ee652.png" height="100px" width="150px"/>
-        </td>
+       </td>
     </tr>
-        <tr>
-        <td align="center" width="150px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 카트 </a>
+    <tr>
+        <td align="center" width="400px">
+            <a href="">🔗 전체 도서</a>
         </td>
         <td align="center" width="150px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 마이페이지</a>
+            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 베스트 셀러 </a>
         </td>
         <td align="center" width="150px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 로그인</a>
-        </td>
-        <td align="center" width="150px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 회원가입 </a>
+            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 리뷰</a>
         </td>
     </tr>
     <tr>
+        <td align="center" width="150px">
+            <img src="https://user-images.githubusercontent.com/93498523/168769562-93df1577-edf5-4bbe-af62-541b304ee652.png" height="100px" width="150px"/>
+        </td>
         <td align="center" width="150px">
             <img src="https://user-images.githubusercontent.com/93498523/168770352-eb6f2934-93ec-4b7a-b353-ab2b3bf97a7d.png" height="100px" width="150px"/>
         </td>
         <td align="center" width="150px">
             <img src="https://user-images.githubusercontent.com/93498523/168762326-f37dcfbb-8ddd-491f-843e-a7e768a93421.png" height="100px" width="150px"/>
+       </td>
+    </tr>
+    <tr>
+        <td align="center" width="150px">
+            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 마이페이지 </a>
         </td>
         <td align="center" width="150px">
+            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 북 카트 </a>
+        </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+       <td align="center" width="150px">
             <img src="https://user-images.githubusercontent.com/93498523/168761745-990ccc0c-2b2e-4905-8219-61adc0e527b1.png" height="100px" width="150px"/>
         </td>
         <td align="center" width="150px">
             <img src="https://user-images.githubusercontent.com/93498523/168765189-164c6ace-b058-4001-aef7-e7bbdbaa957b.png" height="100px" width="150px"/>
         </td>
-    </tr>
+        <td>
+       </td>
+   </tr>
 </table>
 
 

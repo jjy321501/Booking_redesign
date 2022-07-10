@@ -121,13 +121,13 @@
 <table>
     <tr>
         <td align="center" width="300px">
-            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#1-%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 메인 페이지</a>
+            <a href="http://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#1-%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 메인 페이지</a>
         </td>
         <td align="center" width="300px">
-            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#2-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B8%B0%EB%8A%A5">🔗 로그인</a>
+            <a href="http://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#2-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B8%B0%EB%8A%A5">🔗 로그인</a>
         </td>
         <td align="center" width="300px">
-            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#3-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B8%B0%EB%8A%A5">🔗 회원가입</a>
+            <a href="http://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#3-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B8%B0%EB%8A%A5">🔗 회원가입</a>
         </td>
     </tr>
     <tr>

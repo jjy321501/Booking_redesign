@@ -121,13 +121,13 @@
 <table>
     <tr>
         <td align="center" width="300px">
-            <a href="">🔗 홈</a>
+            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#1-%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 홈</a>
         </td>
         <td align="center" width="300px">
-            <a href="">🔗 로그인</a>
+            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#2-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B8%B0%EB%8A%A5">🔗 로그인</a>
         </td>
         <td align="center" width="300px">
-            <a href="">🔗 회원가입</a>
+            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#3-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B8%B0%EB%8A%A5">🔗 회원가입</a>
         </td>
     </tr>
     <tr>
@@ -143,13 +143,13 @@
     </tr>
     <tr>
         <td align="center" width="300px">
-            <a href="">🔗 전체 도서</a>
+            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#3-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B8%B0%EB%8A%A5">🔗 전체 도서</a>
         </td>
         <td align="center" width="300px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 베스트 셀러 </a>
+            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#3-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B8%B0%EB%8A%A5">🔗 베스트 셀러 </a>
         </td>
         <td align="center" width="300px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 리뷰</a>
+            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#3-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B8%B0%EB%8A%A5">🔗 리뷰</a>
         </td>
     </tr>
     <tr>
@@ -166,13 +166,13 @@
     </tr>
     <tr>
         <td align="center" width="300px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 마이페이지 </a>
+            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#7-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 마이페이지 </a>
         </td>
         <td align="center" width="300px">
-            <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 북 카트 </a>
+            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#7-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 북 카트 </a>
         </td>
         <td align="center" width="300px">
-           <a href="https://user-images.githubusercontent.com/93498523/168769877-f1fb57b0-f474-44d3-be1d-48d9c3ee9cd6.png">🔗 서점 찾기 </a>
+           <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#7-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 서점 찾기 </a>
         </td>
     </tr>
     <tr>

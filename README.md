@@ -143,13 +143,13 @@
     </tr>
     <tr>
         <td align="center" width="300px">
-            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#4-%EC%A0%84%EC%B2%B4-%EB%8F%84%EC%84%9C-%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 전체 도서</a>
+            <a href="http://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#4-%EC%A0%84%EC%B2%B4-%EB%8F%84%EC%84%9C-%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 전체 도서</a>
         </td>
         <td align="center" width="300px">
-            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#5-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC-%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 베스트 셀러 </a>
+            <a href="http://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#5-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC-%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 베스트 셀러 </a>
         </td>
         <td align="center" width="300px">
-            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#6-%EB%8F%84%EC%84%9C-%EB%A6%AC%EB%B7%B0-%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 리뷰</a>
+            <a href="http://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#6-%EB%8F%84%EC%84%9C-%EB%A6%AC%EB%B7%B0-%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 리뷰</a>
         </td>
     </tr>
     <tr>
@@ -166,13 +166,13 @@
     </tr>
     <tr>
         <td align="center" width="300px">
-            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#7-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 마이페이지 </a>
+            <a href="http://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#7-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80">🔗 마이페이지 </a>
         </td>
         <td align="center" width="300px">
-            <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#8-%EB%B6%81%EC%B9%B4%ED%8A%B8">🔗 북 카트 </a>
+            <a href="http://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#8-%EB%B6%81%EC%B9%B4%ED%8A%B8">🔗 북 카트 </a>
         </td>
         <td align="center" width="300px">
-           <a href="https://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#9-%EC%84%9C%EC%A0%90-%EC%B0%BE%EA%B8%B0">🔗 서점 찾기 </a>
+           <a href="http://github.com/jjy321501/Booking_redesign/wiki/Booking_redesign#9-%EC%84%9C%EC%A0%90-%EC%B0%BE%EA%B8%B0">🔗 서점 찾기 </a>
         </td>
     </tr>
     <tr>

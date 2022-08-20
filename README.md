@@ -37,7 +37,7 @@
 <br>
 <br>
 
-## :orange_book: 프로젝트 구조 <a id="section3"></a>
+## :orange_book: 파일  <a id="section3"></a>
 ```bash
 📦views
  ┣ 📂bookList

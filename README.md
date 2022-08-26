@@ -17,8 +17,7 @@
 ## :books: 개요 <a id="section1"></a>
 - 사용자별 맞춤 도서 추천 웹 서비스 <br>
 - 2022.01 ~ 2022.03 <br>
-- <a href="https://github.com/jjy321501/Booking">[ Booking ]</a> 재설계 
-- [ 배포 URL ] <a href="http://www.acornbook.me">http://www.acornbook.me/</a>
+- <a href="https://github.com/jjy321501/Booking">[ Booking ]</a> 디자인 재설계 및 기능 추가 
 
 <br>
 <br>
